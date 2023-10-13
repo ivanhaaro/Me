@@ -1,0 +1,9 @@
+.contact-card-section {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.contact-card-section:hover {
+    background-color: blue;
+}
